@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Todo-App/static/css/main.04dd7562.chunk.css",
+    "main.js": "/React-Todo-App/static/js/main.d1bcc516.chunk.js",
+    "main.js.map": "/React-Todo-App/static/js/main.d1bcc516.chunk.js.map",
+    "runtime-main.js": "/React-Todo-App/static/js/runtime-main.b7671be5.js",
+    "runtime-main.js.map": "/React-Todo-App/static/js/runtime-main.b7671be5.js.map",
+    "static/js/2.61421785.chunk.js": "/React-Todo-App/static/js/2.61421785.chunk.js",
+    "static/js/2.61421785.chunk.js.map": "/React-Todo-App/static/js/2.61421785.chunk.js.map",
+    "index.html": "/React-Todo-App/index.html",
+    "precache-manifest.deb1f36d6e95d3824c83300831762201.js": "/React-Todo-App/precache-manifest.deb1f36d6e95d3824c83300831762201.js",
+    "service-worker.js": "/React-Todo-App/service-worker.js",
+    "static/css/main.04dd7562.chunk.css.map": "/React-Todo-App/static/css/main.04dd7562.chunk.css.map",
+    "static/js/2.61421785.chunk.js.LICENSE.txt": "/React-Todo-App/static/js/2.61421785.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7671be5.js",
+    "static/js/2.61421785.chunk.js",
+    "static/css/main.04dd7562.chunk.css",
+    "static/js/main.d1bcc516.chunk.js"
+  ]
+}
